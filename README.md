@@ -1,2 +1,2 @@
-Appdest is an emerging IT company that offers Software Development
+My First Android Repo on Github
 =======
